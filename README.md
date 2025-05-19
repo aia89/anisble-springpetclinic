@@ -1,5 +1,5 @@
 
-### 📦 Project: `anisble-springpetclinic`
+### 📦 Project: `ansible-springpetclinic`
 
 This project automates the deployment of the **Spring PetClinic** Java application using **Ansible**.
 
